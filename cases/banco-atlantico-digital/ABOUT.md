@@ -19,8 +19,11 @@ This project exists to simulate what it looks like to set up and facilitate agil
 
 3 Tribes · 9 Squads · 1 PI · 6 Sprints
 
-Tribe Mission
-SquadsAPP-Mobile - Build and evolve the bank's mobile app — the primary digital touchpoint for customersSquad Discovery (Upstream), Squad Delivery (Downstream), Squad Experience (UX)OpenBanking-APIBuild the bank's open connectivity layer, expose services to TPPs, and ensure secure authentication and platform infrastructureSquad Identidade, Squad Integrações, Squad PlataformaBackoffice-CreditoDigitise and automate internal credit processes, replacing legacy COBOL systems and paper-based workflowsSquad Automação, Squad Digitalização, Squad Integrações
+| Tribe | Mission | Squads |
+|---|---|---|
+| **APP-Mobile** | Build and evolve the bank's mobile app - the primary digital touchpoint for customers | Squad Discovery (Upstream), Squad Delivery (Downstream), Squad Experience (UX) | 
+| **OpenBanking-API** | Build the bank's open connectivity layer, expose services to TPPs, and ensure secure authentication and platform infrastructure | Squad Identidade, Squad Integrações, Squad Plataforma | 
+| **Backoffice-Credito** | Digitise and automate internal credit processes, replacing legacy COBOL systems and paper-based workflows | Squad Automação, Squad Digitalização, Squad Integrações |
 
 ## Regulatory Context
 
@@ -34,11 +37,11 @@ These constraints are not decorative - they directly shape backlog prioritisatio
 
 ## PI2026Q2 - Backlog Overview
 
-🏦 Tribe: APP-Mobile
+**🏦 Tribe: APP-Mobile**
 
 The mobile app is the most visible layer of the transformation. Every capability built by the other tribes - open APIs, digitalised credit - ultimately reaches the customer through this channel.
 
-Epic 1 · Gestão de Conta e Operações Diárias
+**Epic 1 · Gestão de Conta e Operações Diárias**
 
 Feature: Dashboard Financeiro
 - Real-time balance and transaction view
