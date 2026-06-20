@@ -113,14 +113,15 @@ The credit automation epic targets the 5–10 day approval cycle. The decision t
 
 **Dependency management**
 
-The three tribes are not independent. 
-APP-Mobile depends on OpenBanking-API for authentication flows. 
-Backoffice-Credito depends on APP-Mobile for the customer-facing credit application journey. 
+- The three tribes are not independent.
+- APP-Mobile depends on OpenBanking-API for authentication flows.
+- Backoffice-Credito depends on APP-Mobile for the customer-facing credit application journey.
+
 These dependencies are tracked in the Delivery Plan and flagged for inter-squad alignment at refinement.
 
-Note on Squad Discovery (Upstream): This squad does not deliver features sprint by sprint. It works ahead of the delivery squads — mapping the customer journey, validating assumptions, and ensuring Downstream and UX have enough clarity to build without blockers. The Onboarding Journey Map in Sprint 3 is not the start of their work; it is the point at which that work becomes mature enough to be documented as a shared artefact.
+- The squads within Backoffice-Credito are not independent: they complement each other sequentially. A squad's delivery in one sprint often enables another squad to begin its next piece of work. This sequencing is planned and validated with stakeholders before development starts, so that when a dependency is resolved, the receiving squad is already prepared to build.
 
-Note on squad dependencies: The squads within Backoffice-Credito are not independent — they complement each other sequentially. A squad's delivery in one sprint often enables another squad to begin its next piece of work. This sequencing is planned and validated with stakeholders before development starts, so that when a dependency is resolved, the receiving squad is already prepared to build. For example: Squad Automação uses Sprint 1 for design and stakeholder validation of the scoring model — precisely because Squad Integrações is still building the client data connector that the scoring engine will depend on. By Sprint 2, both strands are ready to connect.
+- **Note on Squad Discovery (Upstream):** This squad does not deliver features sprint by sprint. It works ahead of the delivery squads - mapping the customer journey, validating assumptions, and ensuring Downstream and UX have enough clarity to build without blockers.
 
 ## Process documents
 
