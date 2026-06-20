@@ -134,7 +134,7 @@ These dependencies are tracked in the Delivery Plan and flagged for inter-squad 
 
 *Coming soon - being built incrementally alongside the Azure DevOps simulation.*
 
-##Screenshots
+## Screenshots
 
 | Description | File | 
 |---|---|
