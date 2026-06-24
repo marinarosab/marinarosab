@@ -17,9 +17,11 @@ A Feature is considered Ready when:
 <br>
 ☑ The scope is defined: what is included and, where relevant, what is explicitly excluded.
 #### User Stories & Acceptance Criteria ####
-☑
-☑
-☑
+☑ The Feature has been broken down into PBIs (user stories or tasks).
+<br>
+☑ Each PBI has at least one acceptance criterion defined.
+<br>
+☑ Acceptance criteria are written in a verifiable format (the team can confirm whether they are met or not).
 #### Dependencies & Risks ####
 ☑
 ☑
