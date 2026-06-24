@@ -40,3 +40,16 @@ A Feature is considered Ready when:
 <br>
 ☑ The team has had the opportunity to ask questions and raise concerns in refinement.
 <br>
+
+### 📝 How to adapt this for your team ###
+
+This template is a starting point. When introducing a DoR with a new team:
+
+Don't present it as a rulebook. Introduce it as a shared agreement — the team should discuss, challenge and own it.
+Start simple. A DoR with 5 criteria that the team actually uses is more valuable than one with 15 that nobody checks.
+Revisit it in retrospectives. If the team keeps starting work that is unclear, the DoR is either missing something or not being used.
+Adapt the level of granularity. In some contexts, a DoR at Epic or Feature level makes more sense than at story level. In others, you need both.
+
+
+
+Template by Marina Rosa Bittencourt · LinkedIn
