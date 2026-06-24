@@ -29,9 +29,12 @@ A Feature is considered Ready when:
 <br>
 ☑ Known risks are visible and have been discussed with the team. 
 #### Estimation ####
-☑
-☑
-☑
+☑ The Feature and its PBIs have been discussed in refinement with the team.
+<br>
+☑ The team has enough information to estimate or size the work.
+<br>
+☑ There are no open questions that would prevent the team from starting.
+<br>
 #### Alingment ####
 ☑
 ☑
