@@ -23,9 +23,11 @@ A Feature is considered Ready when:
 <br>
 ☑ Acceptance criteria are written in a verifiable format (the team can confirm whether they are met or not).
 #### Dependencies & Risks ####
-☑
-☑
-☑
+☑ Known dependencies are identified (internal (other squads or teams) and external (systems, third parties)).
+<br>
+☑ Blocking dependencies are resolved or have a clear resolution plan before the sprint starts.
+<br>
+☑ Known risks are visible and have been discussed with the team. 
 #### Estimation ####
 ☑
 ☑
