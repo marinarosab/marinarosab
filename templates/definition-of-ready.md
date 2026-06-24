@@ -36,6 +36,7 @@ A Feature is considered Ready when:
 ☑ There are no open questions that would prevent the team from starting.
 <br>
 #### Alingment ####
-☑
-☑
-☑
+☑ The Product Owner has confirmed the Feature is prioritised and ready.
+<br>
+☑ The team has had the opportunity to ask questions and raise concerns in refinement.
+<br>
