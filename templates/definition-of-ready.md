@@ -54,4 +54,4 @@ This template is a starting point. When introducing a DoR with a new team:
 4. ##### Adapt the level of granularity. ####
    In some contexts, a DoR at Epic or Feature level makes more sense than at story level. In others, you need both.
 
-Template by Marina Rosa Bittencourt · LinkedIn
+Template by *Marina Rosa Bittencourt* · <a href="https://www.linkedin.com/in/marinarosabittencourt/" target="_blank">LinkedIn</a>.
