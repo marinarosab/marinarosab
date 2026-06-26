@@ -68,4 +68,4 @@ Reusable artefacts for Scrum Masters and agile teams: DoR, DoD, User Story templ
 
 ---
 
-*This portfolio is a work in progress — updated as cases are documented and tools are refined.*
+*This portfolio is a work in progress. Updated as cases are documented and tools are refined.*
