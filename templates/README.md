@@ -8,7 +8,7 @@ These templates are not prescriptive. They are starting points - built from real
 
 | File | Description | 
 |---|---|
-| definition-of-ready.md | Criteria that must be met before a Feature's PBIs are ready to enter development |
+| **[Definition of Ready](definition-of-ready.md)** | Criteria that must be met before a Feature's PBIs are ready to enter development |
 | definition-of-done.md | Criteria that must be met for a Feature to be considered complete |
 | user-story-template.md | User Story structure with acceptance criteria | 
 | sprint-planning-guide.md | A practical guide for facilitating Sprint Planning | 
