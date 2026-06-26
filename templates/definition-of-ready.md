@@ -10,35 +10,24 @@ The DoR exists to protect the team from starting work that is unclear, incomplet
 
 A Feature is considered **Ready** when:
 #### Clarity ####
-☑ The Feature has a clear title and a description that explains its purpose and expected outcome.
-<br>
-☑ The business value is understood by the team (the team can answer "why does this matter?").
-<br>
-☑ The scope is defined: what is included and, where relevant, what is explicitly excluded.
+- [ ] The Feature has a clear title and a description that explains its purpose and expected outcome.
+- [ ] The business value is understood by the team (the team can answer "why does this matter?").
+- [ ] The scope is defined: what is included and, where relevant, what is explicitly excluded.
 #### User Stories & Acceptance Criteria ####
-☑ The Feature has been broken down into PBIs (user stories or tasks).
-<br>
-☑ Each PBI has at least one acceptance criterion defined.
-<br>
-☑ Acceptance criteria are written in a verifiable format (the team can confirm whether they are met or not).
+- [ ] The Feature has been broken down into PBIs (user stories or tasks).
+- [ ] Each PBI has at least one acceptance criterion defined.
+- [ ] Acceptance criteria are written in a verifiable format (the team can confirm whether they are met or not).
 #### Dependencies & Risks ####
-☑ Known dependencies are identified (internal (other squads or teams) and external (systems, third parties)).
-<br>
-☑ Blocking dependencies are resolved or have a clear resolution plan before the sprint starts.
-<br>
-☑ Known risks are visible and have been discussed with the team. 
+- [ ] Known dependencies are identified (internal (other squads or teams) and external (systems, third parties)).
+- [ ] Blocking dependencies are resolved or have a clear resolution plan before the sprint starts.
+- [ ] Known risks are visible and have been discussed with the team. 
 #### Estimation ####
-☑ The Feature and its PBIs have been discussed in refinement with the team.
-<br>
-☑ The team has enough information to estimate or size the work.
-<br>
-☑ There are no open questions that would prevent the team from starting.
-<br>
+- [ ] The Feature and its PBIs have been discussed in refinement with the team.
+- [ ] The team has enough information to estimate or size the work.
+- [ ] There are no open questions that would prevent the team from starting.
 #### Alingment ####
-☑ The Product Owner has confirmed the Feature is prioritised and ready.
-<br>
-☑ The team has had the opportunity to ask questions and raise concerns in refinement.
-<br>
+- [ ] The Product Owner has confirmed the Feature is prioritised and ready.
+- [ ] The team has had the opportunity to ask questions and raise concerns in refinement.
 
 ### 📝 How to adapt this for your team ###
 
