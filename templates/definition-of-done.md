@@ -6,7 +6,7 @@ The DoD is not a checklist of tasks. It is the team's commitment to what "done" 
 
 **Note on scope:** This DoD operates at the Feature level. A Feature is only considered Done when all its PBIs are complete and the Feature as a whole meets these criteria. Individual PBIs have their own acceptance criteria, which must be met before the PBI can be considered done at story level.
 
-✅ Definition of Done - Feature Level
+### ✅ Definition of Done - Feature Level ###
 
 A Feature is considered **Done** when:
 
