@@ -9,10 +9,10 @@ These templates are not prescriptive. They are starting points - built from real
 | File | Description | 
 |---|---|
 | **[Definition of Ready](definition-of-ready.md)** | Criteria that must be met before a Feature's PBIs are ready to enter development |
-| definition-of-done.md | Criteria that must be met for a Feature to be considered complete |
-| user-story-template.md | User Story structure with acceptance criteria | 
-| sprint-planning-guide.md | A practical guide for facilitating Sprint Planning | 
-| glossary-pt-en.md | Agile glossary: terms in English and Portuguese, with explanations |
+| **[Definition of Done](definition-of-done.md)** | Criteria that must be met for a Feature to be considered complete |
+| **[User Stories Template](user-story-template.md)** | User Story structure with acceptance criteria | 
+| **[Sprint Planning Guide](sprint-planning-guide.md)** | A practical guide for facilitating Sprint Planning | 
+| **[Agile Glossary](glossary-pt-en.md)** | Agile glossary: terms in English and Portuguese, with explanations |
 
 ## How to use these
 
