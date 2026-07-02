@@ -27,38 +27,27 @@ This team is responsible for the digital portals and simulators used across CGD'
 This created a shared understanding of what "ready" and "done" meant - not as abstract concepts, but as concrete, checkable conditions for each piece of work.
 
 ### Team 2 · Segurança e Vulnerabilidades
-This squad managed security and vulnerability work across CGD's digital infrastructure — a domain with its own specific demands: work that is reactive as well as planned, compliance-driven, and often invisible to the wider organisation until something goes wrong.
+This team manage security and vulnerability work across CGD's digital infrastructure - a domain with its own specific demands: work that is reactive as well as planned, compliance-driven, and often invisible to the wider organisation.
 
 #### What I worked on:
+- **Backlog migration - Excel → Jira:** The team's backlog lived in a spreadsheet. Work was tracked manually, priorities were implicit, and visibility beyond the immediate team was limited. I supported the migration of the full backlog into Jira - not as a copy-paste exercise, but as a restructuring: organising work into a coherent flow, making priorities explicit, and creating a single source of truth the team could actually work from.
 
-**Backlog migration: Excel → Jira**
-The squad's backlog lived in a spreadsheet. Work was tracked manually, priorities were implicit, and visibility beyond the immediate team was limited. I supported the migration of the full backlog into Jira — not as a copy-paste exercise, but as a restructuring: organising work into a coherent flow, making priorities explicit, and creating a single source of truth the team could actually work from.
+- **Adapting the framework to the context:** Security and vulnerability work does not always fit neatly into User Story format. The team's work items were defined as **tasks** rather than user stories - a deliberate decision that reflected the nature of the work. Not every agile practice should be applied the same way in every context; what matters is that the team has clarity on what they are doing and why.
 
-**Adapting the framework to the context**
-Security and vulnerability work does not always fit neatly into User Story format. The team's work items were defined as **tasks** rather than user stories — a deliberate decision that reflected the nature of the work. Not every agile practice should be applied the same way in every context; what matters is that the team has clarity on what they are doing and why.
+- **Definition of Ready and Definition of Done:** I worked with the team to define what it meant for a task to be ready to start and what it meant for it to be complete. This created shared standards that the team owned - not external criteria imposed on them - and made it easier to have conversations about quality and completeness without ambiguity.
 
-**Definition of Ready and Definition of Done**
-I worked with the squad to define what it meant for a task to be ready to start and what it meant for it to be complete. This created shared standards that the team owned — not external criteria imposed on them — and made it easier to have conversations about quality and completeness without ambiguity.
+- **Team responsibilities and working agreements:** Beyond the tools, I supported the team in making implicit working norms explicit: who owns what, how decisions are made, how blockers are escalated. This kind of clarity is often undervalued - but it is what allows a team to function consistently, especially in high-stakes operational contexts.
 
-**Team responsibilities and working agreements**
-Beyond the tools, I supported the team in making implicit working norms explicit: who owns what, how decisions are made, how blockers are escalated. This kind of clarity is often undervalued — but it is what allows a team to function consistently, especially in high-stakes operational contexts.
+- **Confluence backlog table:** I built a structured table in Confluence documenting the team's full backlog, with progress status for each item. This gave the team a coherent view of their own work and made it possible for stakeholders - including the security team they worked with and the IT directorate - to understand the state of delivery without needing to be in every meeting.
 
-**Confluence backlog table**
-I built a structured table in Confluence documenting the team's full backlog, with progress status for each item. This gave the team a coherent view of their own work and made it possible for stakeholders — including the security team they worked with and the IT directorate — to understand the state of delivery without needing to be in every meeting.
-
-**Jira dashboard: throughput and delivery visibility**
-I created a Jira dashboard tracking throughput and delivery status, giving the team, their stakeholders, and IT leadership a live view of what was moving, what was completed, and where work was stalled. Making this visible at directorate level was significant: it changed how the squad's work was perceived and discussed at a senior level.
-
----
+- **Jira dashboard - throughput and delivery visibility:** I created a Jira dashboard tracking throughput and delivery status, giving the team, their stakeholders, and IT leadership a live view of what was moving, what was completed, and where work was stalled. Making this visible at directorate level was significant: it changed how the team's work was perceived and discussed at a senior level.
 
 ## What this experience taught me
 
-Working across two squads with different domains, tooling and maturity levels reinforced something I believe strongly: the Scrum Master role is not about applying a framework — it is about understanding a team's specific context and helping them work better within it.
+Working across two teams with different domains, tooling and maturity levels reinforced something I believe strongly: the **Scrum Master role** is not about applying a framework - it is about **understanding a team's specific context** and **helping them work better within it**.
 
-In one squad, the work was about creating structure and connectivity where there was none. In the other, it was about translating existing work into a more visible, manageable form — and adapting the framework to fit the work, not the other way around.
+In one squad, the work was about creating structure and connectivity where there was none. In the other, it was about translating existing work into a more visible, manageable form - and adapting the framework to fit the work, not the other way around.
 
 Both required the same underlying things: listening carefully, building trust, and making the invisible visible.
 
----
-
-*This case describes work carried out at CGD via NTT DATA. Sensitive or confidential information has been deliberately excluded.*
+*This case describes work carried out at CGD via NTT DATA. Sensitive or confidential information has been excluded.*
