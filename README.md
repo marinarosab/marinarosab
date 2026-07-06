@@ -2,8 +2,6 @@
 
 **Scrum Master · Agile Enabler · Based in Lisbon, Portugal**
 
----
-
 I help teams work better — not just faster.
 
 My background spans banking, SaaS and community-driven product work. I've facilitated squads in regulated environments, supported Product Owners through complex stakeholder landscapes, and led implementation journeys for enterprise clients. Across all of it, the throughline has been the same: creating clarity, improving flow, and helping people collaborate with less friction.
@@ -11,8 +9,6 @@ My background spans banking, SaaS and community-driven product work. I've facili
 I'm Brazilian, based in Lisbon, and currently building my career in European contexts — with a particular interest in organisations navigating real transformation, not just renaming their processes.
 
 This portfolio documents how I think, how I work, and what I've learned.
-
----
 
 ## 📂 What's in this portfolio
 
@@ -23,12 +19,10 @@ A side project simulating an agile transformation in a fictional Portuguese bank
 Scrum Master for two digital channels squads (retail and business banking) via NTT DATA. A practitioner's view of what it actually looks like to facilitate agile delivery inside a large Portuguese bank — the complexity, the constraints, and what I learned.
 
 ### 🚀 Case · Gupy — Agile Lens on SaaS Implementation
-I wasn't called a Scrum Master at Gupy. But backlog thinking, iterative delivery and stakeholder alignment were at the core of every implementation I led. This case reframes that experience through an agile lens — and explores what product management and delivery coordination look like outside traditional tech roles.
+I wasn't called a Scrum Master at Gupy. But backlog thinking, iterative delivery and stakeholder alignment were at the core of every implementation I led. This case reframes that experience through an agile lens - and explores what product management and delivery coordination look like outside traditional tech roles.
 
 ### 🧰 Templates & Tools
 Reusable artefacts for Scrum Masters and agile teams: DoR, DoD, User Story templates, Sprint Planning guide, and a PT/EN agile glossary.
-
----
 
 ## 🛠 How I work
 
@@ -41,31 +35,15 @@ Reusable artefacts for Scrum Masters and agile teams: DoR, DoD, User Story templ
 | **Continuous improvement** | Retrospectives that actually change things; team agreements; ways of working design |
 | **Context** | Banking · SaaS · Regulatory environments · Cross-functional teams |
 
----
-
 ## 🎓 Certifications
-
 - 🏅 **Professional Scrum Master I™ (PSM I™)** — Scrum.org
 - 🏅 **Certified Scrum Product Owner® (CSPO®)** — Scrum Alliance
 - 🏅 **Certified Lean Fundamentals (CLF)**
 - 🏅 **Management 3.0**
 
----
-
-## 🌱 Right now
-
-- Building the **Banco Atlântico Digital** simulation project in Azure DevOps
-- Contributing to **TugÁgil** — the Lisbon agile community — as a volunteer staff member
-- Looking for Scrum Master / Agile Delivery roles in Portugal or remote European contexts
-
----
-
 ## 📫 Let's connect
-
 - 💼 [LinkedIn](https://linkedin.com/in/marinarosabittencourt)
 - 📧 marinarosabittencourt@gmail.com
 - 📍 Lisbon, Portugal
-
----
 
 *This portfolio is a work in progress. Updated as cases are documented and tools are refined.*
