@@ -18,7 +18,7 @@ A side project simulating an agile transformation in a fictional Portuguese bank
 ### [🏦 Case · Caixa Geral de Depósitos (CGD)](cases/caixa-geral-de-depositos/README.md)
 Scrum Master for two digital channels squads (retail and business banking) via NTT DATA. A practitioner's view of what it actually looks like to facilitate agile delivery inside a large Portuguese bank — the complexity, the constraints, and what I learned.
 
-### [🚀 Case · Gupy — Agile Lens on SaaS Implementation](cases/gupy/README.md)
+### [🚀 Case · Gupy · Agile Lens on SaaS Implementation](cases/gupy/README.md)
 I wasn't called a Scrum Master at Gupy. But backlog thinking, iterative delivery and stakeholder alignment were at the core of every implementation I led. This case reframes that experience through an agile lens - and explores what product management and delivery coordination look like outside traditional tech roles.
 
 ### [🧰 Templates & Tools](templates/README.md)
