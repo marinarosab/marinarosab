@@ -2,11 +2,11 @@
 
 **Scrum Master · Agile Enabler · Based in Lisbon, Portugal**
 
-I help teams work better — not just faster.
+I help teams work better, not just faster.
 
 My background spans banking, SaaS and community-driven product work. I've facilitated squads in regulated environments, supported Product Owners through complex stakeholder landscapes, and led implementation journeys for enterprise clients. Across all of it, the throughline has been the same: creating clarity, improving flow, and helping people collaborate with less friction.
 
-I'm Brazilian, based in Lisbon, and currently building my career in European contexts — with a particular interest in organisations navigating real transformation, not just renaming their processes.
+I'm Brazilian, based in Lisbon, and currently building my career in European contexts, with a particular interest in organisations navigating real transformation, not just renaming their processes.
 
 This portfolio documents how I think, how I work, and what I've learned.
 
