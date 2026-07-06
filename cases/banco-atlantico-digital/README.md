@@ -127,10 +127,10 @@ These dependencies are tracked in the Delivery Plan and flagged for inter-squad 
 
 | File | What is |
 |---|---|
-| dor.md | Definition of Ready |
-| dod.md | Definition of Done |
-| team-agreements.md | Team agreements |
-| sprint-planning-sprint1.md | Sprint 1 Planning notes |
+| . | Definition of Ready |
+| . | Definition of Done |
+| . | Team agreements |
+| . | Sprint 1 Planning notes |
 
 *Coming soon - being built incrementally alongside the Azure DevOps simulation.*
 
