@@ -1,4 +1,4 @@
-#🚀 Case · Gupy - An Agile Lens on SaaS Implementation
+# 🚀 Case · Gupy - An Agile Lens on SaaS Implementation
 
 - **Type:** Professional experience 
 - **Role:** Implementation Project Manager  
