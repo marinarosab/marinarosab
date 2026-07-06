@@ -1,11 +1,9 @@
 # Sprint Planning Guide
-
-Sprint Planning is the ceremony that opens each sprint. Its purpose is for the team to agree on what they will work on and how they will approach it — leaving the session with a clear sprint goal and a backlog they believe they can deliver.
+Sprint Planning is the ceremony that opens each sprint. Its purpose is for the team to agree on what they will work on and how they will approach it, leaving the session with a clear sprint goal and a backlog they believe they can deliver.
 
 This guide is for Scrum Masters facilitating Sprint Planning. It covers preparation, structure, common challenges, and facilitation tips.
 
-## Before the session
-
+## Before the session:
 Good Sprint Planning starts before the meeting begins. If the backlog is not refined and the team arrives without context, the session becomes a refinement session — which is not what it is for.
 
 **Checklist before Sprint Planning:**
