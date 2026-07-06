@@ -59,10 +59,9 @@ Password reset via email
 > **so that** I can regain access to my account if I forget my credentials.
 
 ### Context & Notes
-This flow must comply with GDPR requirements — the reset link must expire after 30 minutes and must not expose the user's email address in the URL. Design reference: Figma link [#].
+This flow must comply with GDPR requirements: the reset link must expire after 30 minutes and must not expose the user's email address in the URL. Design reference: Figma link [#].
 
 ### Acceptance Criteria
-
 - **Given** the user is on the login screen and clicks "Forgot password"
 - **When** they enter a registered email address and submit
 - **Then** they receive an email with a password reset link within 2 minutes
