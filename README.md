@@ -12,7 +12,7 @@ This portfolio documents how I think, how I work, and what I've learned.
 
 ## 📂 What's in this portfolio
 
-### 🏦 Case · Banco Atlântico Digital (BAD)
+### [🏦 Case · Banco Atlântico Digital (BAD)](banco-atlantico-digital/README.md)
 A side project simulating an agile transformation in a fictional Portuguese bank. Built in Azure DevOps with 3 tribes, 9 squads, full backlog structure (Epics, Features, PBIs), PI Planning across Q2 2026, and real regulatory context (PSD2, GDPR, Banco de Portugal). Documents strategy, prioritisation decisions and delivery planning from the ground up.
 
 ### 🏛️ Case · Caixa Geral de Depósitos (CGD)
