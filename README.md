@@ -27,7 +27,7 @@ I wasn't called a Scrum Master at Gupy. But backlog thinking, iterative delivery
 - 🏅 **Certified Lean Fundamentals (CLF)**
 - 🏅 **Management 3.0**
 
-### [🧰 Templates & Tools](templates/README.md)
+## [🧰 Templates & Tools](templates/README.md)
 Reusable artefacts for Scrum Masters and agile teams: DoR, DoD, User Story templates, Sprint Planning guide, and a PT/EN agile glossary.
 
 ## 🛠 How I work
