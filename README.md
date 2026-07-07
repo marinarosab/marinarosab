@@ -16,16 +16,21 @@ This portfolio documents how I think, how I work, and what I've learned.
 A side project simulating an agile transformation in a fictional Portuguese bank. Built in Azure DevOps with 3 tribes, 9 squads, full backlog structure (Epics, Features, PBIs), PI Planning across Q2 2026, and real regulatory context (PSD2, GDPR, Banco de Portugal). Documents strategy, prioritisation decisions and delivery planning from the ground up.
 
 ### [🏦 Case · Caixa Geral de Depósitos (CGD)](cases/caixa-geral-de-depositos/README.md)
-Scrum Master for two digital channels squads (retail and business banking) via NTT DATA. A practitioner's view of what it actually looks like to facilitate agile delivery inside a large Portuguese bank — the complexity, the constraints, and what I learned.
+Scrum Master for two digital channels squads (retail and business banking) via NTT DATA. A practitioner's view of what it actually looks like to facilitate agile delivery inside a large Portuguese bank: the complexity, the constraints, and what I learned.
 
 ### [🚀 Case · Gupy · Agile Lens on SaaS Implementation](cases/gupy/README.md)
-I wasn't called a Scrum Master at Gupy. But backlog thinking, iterative delivery and stakeholder alignment were at the core of every implementation I led. This case reframes that experience through an agile lens - and explores what product management and delivery coordination look like outside traditional tech roles.
+I wasn't called a Scrum Master at Gupy. But backlog thinking, iterative delivery and stakeholder alignment were at the core of every implementation I led. This case reframes that experience through an agile lens, and explores what product management and delivery coordination look like outside traditional tech roles.
+
+## [🎓 Certifications](certifications/README.md)
+- 🏅 **Professional Scrum Master I™ (PSM I™)** — Scrum.org
+- 🏅 **Certified Scrum Product Owner® (CSPO®)** — Scrum Alliance
+- 🏅 **Certified Lean Fundamentals (CLF)**
+- 🏅 **Management 3.0**
 
 ### [🧰 Templates & Tools](templates/README.md)
 Reusable artefacts for Scrum Masters and agile teams: DoR, DoD, User Story templates, Sprint Planning guide, and a PT/EN agile glossary.
 
 ## 🛠 How I work
-
 | Area | What I bring |
 |---|---|
 | **Ceremonies** | Sprint Planning, Daily, Review, Retrospective, Refinement: facilitated with purpose, not routine |
@@ -34,12 +39,6 @@ Reusable artefacts for Scrum Masters and agile teams: DoR, DoD, User Story templ
 | **Backlog support** | Working with Product Owners to organise, refine and communicate what's coming and why |
 | **Continuous improvement** | Retrospectives that actually change things; team agreements; ways of working design |
 | **Context** | Banking, SaaS, Regulatory environments, Cross-functional teams |
-
-## [🎓 Certifications](certifications/README.md)
-- 🏅 **Professional Scrum Master I™ (PSM I™)** — Scrum.org
-- 🏅 **Certified Scrum Product Owner® (CSPO®)** — Scrum Alliance
-- 🏅 **Certified Lean Fundamentals (CLF)**
-- 🏅 **Management 3.0**
 
 ## 📫 Let's connect
 - 💼 [LinkedIn](https://linkedin.com/in/marinarosabittencourt)
