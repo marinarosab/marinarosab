@@ -1,5 +1,4 @@
-# Agile Glossary · PT / EN
-
+# Agile Glossary · EN / PT
 A reference guide for agile practitioners working across English and Portuguese contexts. Each entry includes the term in both languages and a plain-language explanation in English.
 
 Terms are organised alphabetically by the English term.
@@ -9,7 +8,7 @@ Terms are organised alphabetically by the English term.
 The conditions that a Product Backlog Item must meet to be considered complete. Acceptance criteria are specific to each story and define what "done" looks like at PBI level. They are distinct from the Definition of Done, which applies to all work.
 
 **Agile** · *Ágil*
-An umbrella term for a set of values, principles and practices for developing products and delivering work iteratively and collaboratively. Agile is not a methodology — it is a mindset. Scrum, Kanban, SAFe and XP are frameworks that implement agile principles in different ways.
+An umbrella term for a set of values, principles and practices for developing products and delivering work iteratively and collaboratively. Agile is not a methodology: it is a mindset. Scrum, Kanban, SAFe and XP are frameworks that implement agile principles in different ways.
 
 ## B
 **Backlog** · *Backlog*
