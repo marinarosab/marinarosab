@@ -21,6 +21,9 @@ Scrum Master for two digital channels squads (retail and business banking) via N
 ### [🚀 Case · Gupy · Agile Lens on SaaS Implementation](cases/gupy/README.md)
 I wasn't called a Scrum Master at Gupy. But backlog thinking, iterative delivery and stakeholder alignment were at the core of every implementation I led. This case reframes that experience through an agile lens, and explores what product management and delivery coordination look like outside traditional tech roles.
 
+### [🇵🇹 Community Digital Initiatives](cases/community-digital-initiatives/README.md)
+Ownership of digital initiatives within the Portuguese agile community, including the Regional Scrum Gathering Lisbon 2026 website and the upcoming TugÁgil Experience 2026. From identifying a need to making something real out of it.
+
 ## [🎓 Certifications](certifications/README.md)
 - 🏅 **Professional Scrum Master I™ (PSM I™)** — Scrum.org
 - 🏅 **Certified Scrum Product Owner® (CSPO®)** — Scrum Alliance
