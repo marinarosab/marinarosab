@@ -5,8 +5,8 @@ Beyond facilitation and delivery, I've been actively involved in the Portuguese 
 That involvement goes beyond attending events. It includes helping organise them, shaping how they communicate, and taking ownership of initiatives end-to-end, from identifying a need to making something real out of it.
 
 ## 🗓️ Regional Scrum Gathering Lisbon 2026
-Status: Live
-Website: https://www.rsglisbon.com/
+- Status: Live
+- Website: https://www.rsglisbon.com/
 
 ### About the event
 The Regional Scrum Gathering (RSG) is a global initiative by the Scrum Alliance, bringing together agile practitioners for a day of talks, workshops and community connection. In 2026, TugÁgil organised the Lisbon edition for the second consecutive year, and this was also my second time as part of the organising team.
@@ -27,7 +27,7 @@ Within that broader involvement, my concrete ownership was the event website: th
 Not a website project. A communication and coordination challenge: how do we make sure that anyone who hears about this event can find everything they need in one place, understand what it is, and take action? The front-end was the implementation tool. The thinking behind it was product and content strategy.
 
 ## 🎯 TugÁgil Experience 2026
-Status: In progress · Event planned for October 2026.
+- Status: In progress · Event planned for October 2026.
 
 ### About the event
 TugÁgil Experience 2026 is a TugÁgil new initiative born from two years of organising the RSG Lisbon and from something that became clear along the way: there was appetite for more. More connection, more sharing, more space for professionals and organisations in the Portuguese agile, innovation and technology ecosystem to meet, learn and grow together.
