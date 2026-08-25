@@ -25,6 +25,7 @@ I wasn't called a Scrum Master at Gupy. But backlog thinking, iterative delivery
 Ownership of digital initiatives within the Portuguese agile community, including the Regional Scrum Gathering Lisbon 2026 website and the upcoming TugÁgil Experience 2026. From identifying a need to making something real out of it.
 
 ## [🎓 Certifications](certifications/README.md)
+- 🏅 **Certified Agile Facilitator™ (CAF™)** — Scrum Alliance
 - 🏅 **Professional Scrum Master I™ (PSM I™)** — Scrum.org
 - 🏅 **Certified Scrum Product Owner® (CSPO®)** — Scrum Alliance
 - 🏅 **Certified Lean Fundamentals (CLF)**
